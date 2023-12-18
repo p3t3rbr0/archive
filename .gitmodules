@@ -10,3 +10,6 @@
 [submodule "p5-mojo-base"]
 	path = p5-mojo-base
 	url = git@github.com:p3t3rbr0/p5-mojo-base.git
+[submodule "s2-play-base"]
+	path = s2-play-base
+	url = git@github.com:p3t3rbr0/s2-play-base.git
