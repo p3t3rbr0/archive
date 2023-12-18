@@ -1,0 +1,3 @@
+[submodule "p5-ithumb-xs"]
+	path = p5-ithumb-xs
+	url = git@github.com:p3t3rbr0/p5-ithumb-xs.git
