@@ -13,3 +13,6 @@
 [submodule "s2-play-base"]
 	path = s2-play-base
 	url = git@github.com:p3t3rbr0/s2-play-base.git
+[submodule "py3-django-base"]
+	path = py3-django-base
+	url = git@github.com:p3t3rbr0/py3-django-base.git
