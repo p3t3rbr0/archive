@@ -7,3 +7,6 @@
 [submodule "p5-picohttpparser-xs"]
 	path = p5-picohttpparser-xs
 	url = git@github.com:p3t3rbr0/p5-picohttpparser-xs.git
+[submodule "p5-mojo-base"]
+	path = p5-mojo-base
+	url = git@github.com:p3t3rbr0/p5-mojo-base.git
