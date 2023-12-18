@@ -1,3 +1,6 @@
 [submodule "p5-ithumb-xs"]
 	path = p5-ithumb-xs
 	url = git@github.com:p3t3rbr0/p5-ithumb-xs.git
+[submodule "p5-url-xs"]
+	path = p5-url-xs
+	url = git@github.com:p3t3rbr0/p5-url-xs.git
